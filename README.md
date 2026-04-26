@@ -1,5 +1,6 @@
 <h1 align="center">
-Hola 👋 <span style="color:#00F7FF;">Sanjay here</span>
+  Hola, <br>
+  <span style="font-size: 90px; font-weight: bold;">Sanjay here!👋🏻</span>
 </h1>
 
 <p align="center">
